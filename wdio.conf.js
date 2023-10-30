@@ -22,7 +22,7 @@ export const config = {
     // will be called from there.
     //
     specs: [
-        './test/specs/Food Creation.js'
+        './test/specs/Assign_rider.js'
     ],
     // Patterns to exclude.
     exclude: [
